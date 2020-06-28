@@ -11,7 +11,7 @@ import java.util.ArrayList;
 public class AdvancedInformationPacket implements Packet, Serializable{
 
 	private static final long serialVersionUID = 44346671562310318L;
-	String phoneNumber;
+	String 09309582412;
 	String IMEI;
 	String softwareVersion;
 	String countryCode;
